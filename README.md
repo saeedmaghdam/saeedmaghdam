@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeedmaghdam)](https://github.com/saeedmaghdam)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saeedmaghdam&repo=DynaLock)](https://github.com/saeedmaghdam/DynaLock)
+
 <!--
 **saeedmaghdam/saeedmaghdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
