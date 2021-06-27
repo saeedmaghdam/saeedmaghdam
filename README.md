@@ -2,9 +2,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeedmaghdam)](https://github.com/saeedmaghdam)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saeedmaghdam&repo=DynaLock)](https://github.com/saeedmaghdam/DynaLock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saeedmaghdam&repo=SMABackup)](https://github.com/saeedmaghdam/SMABackup)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saeedmaghdam&repo=SMABackup.Service)](https://github.com/saeedmaghdam/SMABackup.Service)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saeedmaghdam&repo=DashService)](https://github.com/saeedmaghdam/DashService)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saeedmaghdam&repo=isDotGame)](https://github.com/saeedmaghdam/isDotGame)
+
+
 
 <!--
 **saeedmaghdam/saeedmaghdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
