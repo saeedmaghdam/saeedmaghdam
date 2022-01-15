@@ -3,6 +3,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeedmaghdam)](https://github.com/saeedmaghdam)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saeedmaghdam&repo=DynaLock)](https://github.com/saeedmaghdam/DynaLock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saeedmaghdam&repo=AppStatus.Api)](https://github.com/saeedmaghdam/AppStatus.Api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saeedmaghdam&repo=AppStatus.Web)](https://github.com/saeedmaghdam/AppStatus.Web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saeedmaghdam&repo=DashFire)](https://github.com/saeedmaghdam/DashFire)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saeedmaghdam&repo=DashFire.Dashboard.API)](https://github.com/saeedmaghdam/DashFire.Dashboard.API)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saeedmaghdam&repo=SMABackup)](https://github.com/saeedmaghdam/SMABackup)
